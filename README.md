@@ -24,6 +24,10 @@ Logistic Regression
 KNN
 xgboost and some other
 
+# Solution
+We are creating a Website where recruiter just have to fill in the details and after processing that details it will predict whether the candidate is joining or not. It will reduce the traditional method of manually reviewing and screening each and every resume submitted.
+
+
 
 
 
