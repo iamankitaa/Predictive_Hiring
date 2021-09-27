@@ -16,8 +16,7 @@ So predict the probability of candidate joining the organization based on asking
 
 
 # Tools Used
-For Frontend - Javascript, Reactjs
-For Backend - Python 3, Machine Learning
+For Frontend - Javascript, Reactjs and For Backend - Python 3, Machine Learning
 
 
 # Algorithm Used
